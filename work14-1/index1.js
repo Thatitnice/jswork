@@ -13,7 +13,7 @@ var lamp = {
     },
     green: {
         odj: document.getElementById('green'),
-        timeout:2,
+        timeout:5,
         style: ['gray' , 'gray' , 'green'],
         next: 'yellow'
     },
